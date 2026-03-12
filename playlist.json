@@ -1,0 +1,1282 @@
+{
+  "entity_type": "playlist_schema",
+  "id": "2ac7108c-7876-45d6-b786-923f23e04b3c",
+  "name": "ブレストBGM",
+  "playlist_clips": [
+    {
+      "clip": {
+        "status": "streaming",
+        "title": "ブレインストーム・ループ",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "288eb067-1b90-43c8-b465-c86c65545ea6",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/?item_id=288eb067-1b90-43c8-b465-c86c65545ea6",
+        "image_url": "image/image_288eb067-1b90-43c8-b465-c86c65545ea6.jpeg",
+        "image_large_url": "image_large/image_large_288eb067-1b90-43c8-b465-c86c65545ea6.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Bright, mid-tempo minimal electronica with soft synth arpeggios, gentle sidechained pads, and a cushioned kick-snare groove; energy builds in subtle layers then resolves back to a simple loop, ideal for focus. Male or female vocals optional as distant chopped phrases, kept airy and low in the mix so the beat stays unobtrusive.",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "ブレインストーミング用のインスト曲、\\n前向きで軽快な電子音楽、\\nシンセアルペジオと心地よいビート、\\n思考を邪魔しないミニマルな構成、\\nアイデアがどんどん出てくる雰囲気",
+          "type": "gen",
+          "stream": true,
+          "make_instrumental": true,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T07:51:45.788Z",
+        "is_public": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "electronica, ambient",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 0
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "ブレインストーム・ループ",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "77ce5624-769a-4257-a94a-fa44852655a1",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/77ce5624-769a-4257-a94a-fa44852655a1.mp3",
+        "image_url": "image/image_77ce5624-769a-4257-a94a-fa44852655a1.jpeg",
+        "image_large_url": "image_large/image_large_77ce5624-769a-4257-a94a-fa44852655a1.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Bright, mid-tempo minimal electronica with soft synth arpeggios, gentle sidechained pads, and a cushioned kick-snare groove; energy builds in subtle layers then resolves back to a simple loop, ideal for focus. Male or female vocals optional as distant chopped phrases, kept airy and low in the mix so the beat stays unobtrusive.",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "ブレインストーミング用のインスト曲、\\n前向きで軽快な電子音楽、\\nシンセアルペジオと心地よいビート、\\n思考を邪魔しないミニマルな構成、\\nアイデアがどんどん出てくる雰囲気",
+          "type": "gen",
+          "duration": 211.2,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": true,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T07:51:45.788Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "electronica, ambient",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 1
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "Idea Engine",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "f689f91e-7191-4253-b53d-a60b21c0ff6d",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/f689f91e-7191-4253-b53d-a60b21c0ff6d.mp3",
+        "image_url": "image/image_f689f91e-7191-4253-b53d-a60b21c0ff6d.jpeg",
+        "image_large_url": "image_large/image_large_f689f91e-7191-4253-b53d-a60b21c0ff6d.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "funk, Clean, futuristic electronica at mid-tempo; light, glassy synth arps cycling steadily over a tight, muted kick and soft snare. Subtle sidechained pads swell and breathe, while a warm, round bass anchors the groove. Occasional filtered risers and delay-splashed plucks mark section changes. Arrangement stays minimal and focused, adding and subtracting layers to keep energy gently rising, ideal for long creative focus bursts., steady, minimal, electronic, light, uplifting",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "Energetic instrumental background music for brainstorming,\\nuplifting electronic groove, light synth arpeggios, minimal melody,\\nsteady mid-tempo beat, optimistic and futuristic atmosphere,\\nno vocals, perfect for creative thinking and innovation sessions",
+          "type": "gen",
+          "duration": 204.88,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": true,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T07:51:31.395Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "funk, electronica",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 2
+    },
+    {
+      "clip": {
+        "status": "streaming",
+        "title": "Idea Engine",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "8697cc34-dc6c-4fc6-80cb-eb4b945c2270",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/?item_id=8697cc34-dc6c-4fc6-80cb-eb4b945c2270",
+        "image_url": "image/image_8697cc34-dc6c-4fc6-80cb-eb4b945c2270.jpeg",
+        "image_large_url": "image_large/image_large_8697cc34-dc6c-4fc6-80cb-eb4b945c2270.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "funk, Clean, futuristic electronica at mid-tempo; light, glassy synth arps cycling steadily over a tight, muted kick and soft snare. Subtle sidechained pads swell and breathe, while a warm, round bass anchors the groove. Occasional filtered risers and delay-splashed plucks mark section changes. Arrangement stays minimal and focused, adding and subtracting layers to keep energy gently rising, ideal for long creative focus bursts., steady, minimal, electronic, light, uplifting",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "Energetic instrumental background music for brainstorming,\\nuplifting electronic groove, light synth arpeggios, minimal melody,\\nsteady mid-tempo beat, optimistic and futuristic atmosphere,\\nno vocals, perfect for creative thinking and innovation sessions",
+          "type": "gen",
+          "stream": true,
+          "make_instrumental": true,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T07:51:31.395Z",
+        "is_public": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "funk, electronica",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 3
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "Launchpad Lightning",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "775e748b-b7c7-4c12-afa0-fdb61e19a38a",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/775e748b-b7c7-4c12-afa0-fdb61e19a38a.mp3",
+        "image_url": "image/image_775e748b-b7c7-4c12-afa0-fdb61e19a38a.jpeg",
+        "image_large_url": "image_large/image_large_775e748b-b7c7-4c12-afa0-fdb61e19a38a.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "funk, Glossy modern electro-pop groove with warm evolving synth pads, sidechained plucks, and a steady, forward-driving kick. Start with a filtered, pulsing arpeggio, then bloom into full-spectrum chords and a melodic lead that feels curious and optimistic. Mid-song, strip to bass and claps for a tight build, then reintroduce wide pads and bright top-line for a payoff that feels like ideas snapping into place. Light percussive details and subtle risers keep energy high yet focused—perfect for looping during intense brainstorming sprints., motivating, warm, pop, electronic, inspiring",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "Upbeat instrumental for startup brainstorming session,\\nmodern electronic pop groove, warm synth pads,\\nmotivating rhythm, creative and optimistic mood,\\nno vocals, inspiring innovation and fast ideas",
+          "type": "gen",
+          "duration": 184.12,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": true,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T07:51:16.570Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "funk, modern electro-pop, electronic",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 4
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "Launchpad Lightning",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "718d1e7c-f696-494a-859e-c8d1e7b4933d",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/718d1e7c-f696-494a-859e-c8d1e7b4933d.mp3",
+        "image_url": "image/image_718d1e7c-f696-494a-859e-c8d1e7b4933d.jpeg",
+        "image_large_url": "image_large/image_large_718d1e7c-f696-494a-859e-c8d1e7b4933d.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "funk, Glossy modern electro-pop groove with warm evolving synth pads, sidechained plucks, and a steady, forward-driving kick. Start with a filtered, pulsing arpeggio, then bloom into full-spectrum chords and a melodic lead that feels curious and optimistic. Mid-song, strip to bass and claps for a tight build, then reintroduce wide pads and bright top-line for a payoff that feels like ideas snapping into place. Light percussive details and subtle risers keep energy high yet focused—perfect for looping during intense brainstorming sprints., motivating, warm, pop, electronic, inspiring",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "Upbeat instrumental for startup brainstorming session,\\nmodern electronic pop groove, warm synth pads,\\nmotivating rhythm, creative and optimistic mood,\\nno vocals, inspiring innovation and fast ideas",
+          "type": "gen",
+          "duration": 180.52,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": true,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T07:51:16.570Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "funk, modern electro-pop, electronic",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 5
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "Brain Bounce",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "ae5af0a3-f5aa-408a-a43a-3ef90d50707c",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/ae5af0a3-f5aa-408a-a43a-3ef90d50707c.mp3",
+        "image_url": "image/image_ae5af0a3-f5aa-408a-a43a-3ef90d50707c.jpeg",
+        "image_large_url": "image_large/image_large_ae5af0a3-f5aa-408a-a43a-3ef90d50707c.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "funk, Bubbly electro-funk bed built on a rubbery synth bass and crisp, lightly swung percussion; bright plucky leads trade short call-and-response motifs over warm chord pads. Occasional filtered risers and ear-candy arps keep the energy moving in waves while the overall mix stays clean and mid-focused, perfect under conversation and rapid-fire ideas., playful, light, electronic, funky, bright",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "Playful instrumental for creative brainstorming,\\nfunky electronic groove, bright synth melodies,\\nlight percussion, energetic but not distracting,\\nno vocals, sparks imagination and collaboration",
+          "type": "gen",
+          "duration": 54.88,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": true,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T07:50:45.028Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "funk, electronic",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 6
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "Brain Bounce",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "72dc0a6c-9957-43a1-83e9-e55373c05555",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/72dc0a6c-9957-43a1-83e9-e55373c05555.mp3",
+        "image_url": "image/image_72dc0a6c-9957-43a1-83e9-e55373c05555.jpeg",
+        "image_large_url": "image_large/image_large_72dc0a6c-9957-43a1-83e9-e55373c05555.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "funk, Bubbly electro-funk bed built on a rubbery synth bass and crisp, lightly swung percussion; bright plucky leads trade short call-and-response motifs over warm chord pads. Occasional filtered risers and ear-candy arps keep the energy moving in waves while the overall mix stays clean and mid-focused, perfect under conversation and rapid-fire ideas., playful, light, electronic, funky, bright",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "Playful instrumental for creative brainstorming,\\nfunky electronic groove, bright synth melodies,\\nlight percussion, energetic but not distracting,\\nno vocals, sparks imagination and collaboration",
+          "type": "gen",
+          "duration": 35.88,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": true,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T07:50:45.028Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "funk, electronic",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 7
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "Code Sprint Skies",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "698ff02b-e457-45be-9819-b36a6bd6b784",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/698ff02b-e457-45be-9819-b36a6bd6b784.mp3",
+        "image_url": "image/image_698ff02b-e457-45be-9819-b36a6bd6b784.jpeg",
+        "image_large_url": "image_large/image_large_698ff02b-e457-45be-9819-b36a6bd6b784.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Clean, mid-tempo electronic score with crisp kicks, tight snares, and subtly side-chained bass. Shimmering poly-synth arps weave in stereo, framed by warm pads and bell-like plucks that rise in evolving patterns. Arrangement builds in thoughtful waves—eight-bar motif layers, gentle filter sweeps, and bright chord lifts—maintaining focus and calm momentum. Occasional glitchy percussion accents hint at curiosity and discovery, while the harmonic bed stays optimistic and sophisticated, ideal for deep hackathon brainstorming and breakthrough moments., beats, inspiring, soundtrack, clean, electronic, steady, uplifting",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "Futuristic instrumental soundtrack for hackathon brainstorming,\\nclean electronic beats, shimmering synth textures,\\nuplifting and intelligent atmosphere,\\nsteady tempo, no vocals, inspiring innovative ideas",
+          "type": "gen",
+          "duration": 204.68,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": true,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T07:50:21.548Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "electronic, soundtrack, uplifting",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 8
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "Code Sprint Skies",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "18a40e24-c538-4ea7-9c85-e8b74007004c",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/18a40e24-c538-4ea7-9c85-e8b74007004c.mp3",
+        "image_url": "image/image_18a40e24-c538-4ea7-9c85-e8b74007004c.jpeg",
+        "image_large_url": "image_large/image_large_18a40e24-c538-4ea7-9c85-e8b74007004c.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Clean, mid-tempo electronic score with crisp kicks, tight snares, and subtly side-chained bass. Shimmering poly-synth arps weave in stereo, framed by warm pads and bell-like plucks that rise in evolving patterns. Arrangement builds in thoughtful waves—eight-bar motif layers, gentle filter sweeps, and bright chord lifts—maintaining focus and calm momentum. Occasional glitchy percussion accents hint at curiosity and discovery, while the harmonic bed stays optimistic and sophisticated, ideal for deep hackathon brainstorming and breakthrough moments., beats, inspiring, soundtrack, clean, electronic, steady, uplifting",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "Futuristic instrumental soundtrack for hackathon brainstorming,\\nclean electronic beats, shimmering synth textures,\\nuplifting and intelligent atmosphere,\\nsteady tempo, no vocals, inspiring innovative ideas",
+          "type": "gen",
+          "duration": 168.48,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": true,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T07:50:21.548Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "electronic, soundtrack, uplifting",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 9
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "Neon Whiteboard Nights",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "8bcf9491-606f-4c1a-bef9-9215765626c3",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/8bcf9491-606f-4c1a-bef9-9215765626c3.mp3",
+        "image_url": "image/image_8bcf9491-606f-4c1a-bef9-9215765626c3.jpeg",
+        "image_large_url": "image_large/image_large_8bcf9491-606f-4c1a-bef9-9215765626c3.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Clean, mid-tempo electronic score with tight kick and snappy snare, glassy arps, and wide shimmering pads; evolving pluck motifs trade lines over a steady sidechained bed. Subtle bass pulses keep it grounded while filtered synth swells and glitchy ear-candy rise into luminous drops, perfect looping energy for focused hackathon flow., uplifting, beats, clean, steady, inspiring, soundtrack, electronic",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "Futuristic instrumental soundtrack for hackathon brainstorming,\\nclean electronic beats, shimmering synth textures,\\nuplifting and intelligent atmosphere,\\nsteady tempo, no vocals, inspiring innovative ideas",
+          "type": "gen",
+          "duration": 227.76,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": true,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T07:50:05.374Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "electronic, soundtrack",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 10
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "Neon Whiteboard Nights",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "3a93b9f2-d9dd-42e9-852f-7f5f235672cc",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/3a93b9f2-d9dd-42e9-852f-7f5f235672cc.mp3",
+        "image_url": "image/image_3a93b9f2-d9dd-42e9-852f-7f5f235672cc.jpeg",
+        "image_large_url": "image_large/image_large_3a93b9f2-d9dd-42e9-852f-7f5f235672cc.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Clean, mid-tempo electronic score with tight kick and snappy snare, glassy arps, and wide shimmering pads; evolving pluck motifs trade lines over a steady sidechained bed. Subtle bass pulses keep it grounded while filtered synth swells and glitchy ear-candy rise into luminous drops, perfect looping energy for focused hackathon flow., uplifting, beats, clean, steady, inspiring, soundtrack, electronic",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "Futuristic instrumental soundtrack for hackathon brainstorming,\\nclean electronic beats, shimmering synth textures,\\nuplifting and intelligent atmosphere,\\nsteady tempo, no vocals, inspiring innovative ideas",
+          "type": "gen",
+          "duration": 224.48,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": true,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T07:50:05.374Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "electronic, soundtrack",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 11
+    },
+    {
+      "clip": {
+        "status": "streaming",
+        "title": "Circuits in Slow Orbit",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "3313269f-6f7c-488a-bd50-5a297daf3f68",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/?item_id=3313269f-6f7c-488a-bd50-5a297daf3f68",
+        "image_url": "image/image_3313269f-6f7c-488a-bd50-5a297daf3f68.jpeg",
+        "image_large_url": "image_large/image_large_3313269f-6f7c-488a-bd50-5a297daf3f68.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "funk, Minimal techno bed built on gentle pulsing synths and a soft, steady kick. Evolving high-pass patterns and muted stabs drift in and out, creating a hypnotic groove that stays spacious for deep focus and coding. Subtle filter sweeps and delay tails add motion while keeping the spectrum clean for long creative sessions., steady, gentle, minimal techno, hypnotic, deep",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "Deep focus instrumental music for creative brainstorming,\\nminimal techno style, gentle pulsing synths,\\nsteady rhythm, hypnotic groove, no vocals,\\ndesigned for thinking, coding, and idea generation",
+          "type": "gen",
+          "stream": true,
+          "make_instrumental": true,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T07:48:57.693Z",
+        "is_public": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "funk, Minimal techno",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 12
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "Circuits in Slow Orbit",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "72674504-637c-48a8-8032-0dceadcdc826",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/72674504-637c-48a8-8032-0dceadcdc826.mp3",
+        "image_url": "image/image_72674504-637c-48a8-8032-0dceadcdc826.jpeg",
+        "image_large_url": "image_large/image_large_72674504-637c-48a8-8032-0dceadcdc826.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "funk, Minimal techno bed built on gentle pulsing synths and a soft, steady kick. Evolving high-pass patterns and muted stabs drift in and out, creating a hypnotic groove that stays spacious for deep focus and coding. Subtle filter sweeps and delay tails add motion while keeping the spectrum clean for long creative sessions., steady, gentle, minimal techno, hypnotic, deep",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "Deep focus instrumental music for creative brainstorming,\\nminimal techno style, gentle pulsing synths,\\nsteady rhythm, hypnotic groove, no vocals,\\ndesigned for thinking, coding, and idea generation",
+          "type": "gen",
+          "duration": 336.52,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": true,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T07:48:57.692Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "funk, Minimal techno",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 13
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "Deep Circuit Drift",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "97ebbd4f-bdb1-49cf-8c6d-ab3b2c756340",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/97ebbd4f-bdb1-49cf-8c6d-ab3b2c756340.mp3",
+        "image_url": "image/image_97ebbd4f-bdb1-49cf-8c6d-ab3b2c756340.jpeg",
+        "image_large_url": "image_large/image_large_97ebbd4f-bdb1-49cf-8c6d-ab3b2c756340.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "funk, Minimal techno bed with soft, pulsing synths and a dry, steady kick. Gentle evolving arps weave in and out, filtered chords slowly opening to add lift. Subtle noise swells and delays keep a hypnotic groove while the arrangement stays sparse and linear, ideal for long creative coding and brainstorming sessions., gentle, deep, minimal techno, steady, hypnotic",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "Deep focus instrumental music for creative brainstorming,\\nminimal techno style, gentle pulsing synths,\\nsteady rhythm, hypnotic groove, no vocals,\\ndesigned for thinking, coding, and idea generation",
+          "type": "gen",
+          "duration": 276.92,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": true,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T07:48:42.710Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "minimal techno",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 14
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "Deep Circuit Drift",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "b43b84d8-1d8f-4d40-84c1-2f065938aa4b",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/b43b84d8-1d8f-4d40-84c1-2f065938aa4b.mp3",
+        "image_url": "image/image_b43b84d8-1d8f-4d40-84c1-2f065938aa4b.jpeg",
+        "image_large_url": "image_large/image_large_b43b84d8-1d8f-4d40-84c1-2f065938aa4b.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "funk, Minimal techno bed with soft, pulsing synths and a dry, steady kick. Gentle evolving arps weave in and out, filtered chords slowly opening to add lift. Subtle noise swells and delays keep a hypnotic groove while the arrangement stays sparse and linear, ideal for long creative coding and brainstorming sessions., gentle, deep, minimal techno, steady, hypnotic",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "Deep focus instrumental music for creative brainstorming,\\nminimal techno style, gentle pulsing synths,\\nsteady rhythm, hypnotic groove, no vocals,\\ndesigned for thinking, coding, and idea generation",
+          "type": "gen",
+          "duration": 308.72,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": true,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T07:48:42.710Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 15
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_288eb067-1b90-43c8-b465-c86c65545ea6.jpeg",
+  "num_total_results": 16,
+  "current_page": 1,
+  "is_owned": false,
+  "is_trashed": false,
+  "is_public": false,
+  "is_hidden": false,
+  "user_display_name": "Taisuke Fukuno",
+  "user_handle": "taisukefukuno858",
+  "user_avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+  "description": "",
+  "upvote_count": 0,
+  "dislike_count": 0,
+  "flag_count": 0,
+  "skip_count": 0,
+  "play_count": 0,
+  "song_count": 0,
+  "total_duration": 2619.04,
+  "is_discover_playlist": false,
+  "clipIds": [
+    "288eb067-1b90-43c8-b465-c86c65545ea6",
+    "77ce5624-769a-4257-a94a-fa44852655a1",
+    "f689f91e-7191-4253-b53d-a60b21c0ff6d",
+    "8697cc34-dc6c-4fc6-80cb-eb4b945c2270",
+    "775e748b-b7c7-4c12-afa0-fdb61e19a38a",
+    "718d1e7c-f696-494a-859e-c8d1e7b4933d",
+    "ae5af0a3-f5aa-408a-a43a-3ef90d50707c",
+    "72dc0a6c-9957-43a1-83e9-e55373c05555",
+    "698ff02b-e457-45be-9819-b36a6bd6b784",
+    "18a40e24-c538-4ea7-9c85-e8b74007004c",
+    "8bcf9491-606f-4c1a-bef9-9215765626c3",
+    "3a93b9f2-d9dd-42e9-852f-7f5f235672cc",
+    "3313269f-6f7c-488a-bd50-5a297daf3f68",
+    "72674504-637c-48a8-8032-0dceadcdc826",
+    "97ebbd4f-bdb1-49cf-8c6d-ab3b2c756340",
+    "b43b84d8-1d8f-4d40-84c1-2f065938aa4b"
+  ]
+}
